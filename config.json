@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": chacha,
+    "BOTNAME": "chacha",
     "PREFIX": "/",
     "ADMINBOT": [
         "61553395466299"
